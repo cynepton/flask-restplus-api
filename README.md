@@ -1,6 +1,6 @@
 # Flask RESTplus API Skeleton code
 
-The Application uses the [Flask RESTplus extension](https://flask-restplus.readthedocs.io/) and a [functional structure](http://exploreflask.com/en/latest/blueprints.html#functional-structure) to organize the project. In a functional structure, templates are grouped together in one directory, static files in another and views in a third.
+The Application uses the [Flask RESTplus extension](https://flask-restplus.readthedocs.io/) and a [functional structure](http://exploreflask.com/en/latest/blueprints.html#functional-structure) to organize the project. In a functional structure, templates are grouped together in one directory, static files in another and views in a third. See [source article](https://www.freecodecamp.org/news/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563/).
 
 ## Application Stack
 
