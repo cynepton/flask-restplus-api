@@ -123,4 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VS code settings
 .vscode
+
+# Ignore Flask app databases
+flask*.db
